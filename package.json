@@ -1,0 +1,22 @@
+{
+  "name": "hicare-marketing",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Ferramentas de automacao de marketing da AI HiCare",
+  "scripts": {
+    "copies": "node marketing/scripts/gerar-copy.mjs",
+    "monitor": "node marketing/scripts/monitor-concorrentes.mjs",
+    "emails": "node marketing/automacao/email-sequence.mjs",
+    "pdf": "python3 marketing/docs_socios/gerar_pdf.py"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "*",
+    "@sendgrid/mail": "*",
+    "axios": "*",
+    "cheerio": "*",
+    "nodemailer": "*",
+    "openai": "*",
+    "puppeteer": "*",
+    "replicate": "*"
+  }
+}
