@@ -7,7 +7,8 @@
     "copies": "node marketing/scripts/gerar-copy.mjs",
     "monitor": "node marketing/scripts/monitor-concorrentes.mjs",
     "emails": "node marketing/automacao/email-sequence.mjs",
-    "pdf": "python3 marketing/docs_socios/gerar_pdf.py"
+    "pdf": "python3 marketing/docs_socios/gerar_pdf.py",
+    "posts": "node marketing/scripts/gerar-posts.mjs"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "*",
