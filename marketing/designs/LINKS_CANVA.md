@@ -1,34 +1,20 @@
 # Links dos Designs no Canva — HiCare
+## Designs salvos na conta (permanentes)
 
-## Deck de Apresentacao para Socios
+### Posts Instagram (exemplos em exemplos_canva/)
+
+| Design | Editar | Visualizar | Arquivo |
+|---|---|---|---|
+| Post 1 — "5 Sinais" | [Editar](https://www.canva.com/d/d3cSiIXiQF4pmZS) | [Ver](https://www.canva.com/d/J4wDj_9hJQqjGkz) | exemplos_canva/post01_5sinais.png |
+| Post 2 — "WhatsApp" | [Editar](https://www.canva.com/d/OH-eW8d09g8Sl8I) | [Ver](https://www.canva.com/d/ONmiLQVswSSMJMe) | exemplos_canva/post02_whatsapp.png |
+| Post 3 — "Chatbot vs IA" | [Editar](https://www.canva.com/d/8SPdXAkKhY3W3Iw) | [Ver](https://www.canva.com/d/Sc-P2rcYTIcpri-) | exemplos_canva/post03_chatbot_vs_ia.png |
+| Story — "Diagnostico" | [Editar](https://www.canva.com/d/ZFU0rH-WWuGFoay) | [Ver](https://www.canva.com/d/5wCJnjLL8lntTn2) | exemplos_canva/story_diagnostico.png |
+
+### Deck de Apresentacao para Socios
 - Opcao A: https://www.canva.com/d/Y_TPQB5SDIoCVMb
 - Opcao B: https://www.canva.com/d/HNhx7ZSU4MYhG9g
 - Opcao C: https://www.canva.com/d/_2xm64gjSQFSQIl
 - Opcao D: https://www.canva.com/d/WZWwYe0pTymvvhW
-
-## Post 1 — "5 Sinais de que sua Clinica Precisa de IA"
-- Opcao A: https://www.canva.com/d/YCrMdlTP5KADD39
-- Opcao B: https://www.canva.com/d/pSRqZEVN6OwVd68
-- Opcao C: https://www.canva.com/d/59z98mKa75J1KyK
-- Opcao D: https://www.canva.com/d/HGwzIu6fH7qhGV9
-
-## Post 2 — "Por que sua clinica perde pacientes pelo WhatsApp"
-- Opcao A: https://www.canva.com/d/uqN-gIyLh55Td3o
-- Opcao B: https://www.canva.com/d/8JlOtUG_Mlkvtzr
-- Opcao C: https://www.canva.com/d/U4ofvMq3GMrYmKu
-- Opcao D: https://www.canva.com/d/WgtYupvkgC2YXbr
-
-## Post 3 — "Chatbot vs Agente de IA"
-- Opcao A: https://www.canva.com/d/IciQBSjuFxHKt_9
-- Opcao B: https://www.canva.com/d/7qwlhfNdB4n1P6j
-- Opcao C: https://www.canva.com/d/Qw5jVBMSVxz2EpZ
-- Opcao D: https://www.canva.com/d/ypSVUS8KDwsIYC0
-
-## Stories — "Agende um Diagnostico Gratuito"
-- Opcao A: https://www.canva.com/d/hDEkkupZ0jOhpSh
-- Opcao B: https://www.canva.com/d/2y_BIggufaUOQvt
-- Opcao C: https://www.canva.com/d/59-agi-RtIeJU7r
-- Opcao D: https://www.canva.com/d/eVlkMdBM-PJtucv
 
 ## Paleta de Cores HiCare
 - Background: #0A0B10 (preto)
